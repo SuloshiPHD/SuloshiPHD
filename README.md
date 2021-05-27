@@ -2,7 +2,7 @@
 ### I'm Duneesha Suloshini
 ![I am GitHub Readme Generator's creator](https://github.com/SuloshiPHD/SuloshiPHD/blob/main/%23Development.png)
 
-### I am a self-motivated, self-learning, hardworking, lifelong learner. I really enjoy learning languages and frameworks. I believe in team-work and determined to sharpen my skills as a Software Engineer and pursue my passion for technology.
+### I love to explore new things and curious about how things are working in any area of study. Designing and programming have always been my passion. I wish to work hard and engage in life long journey of learning with utmost passion about computer science and its developments.
 
 
 
